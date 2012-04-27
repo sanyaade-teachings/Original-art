@@ -17,9 +17,9 @@
    viewBox="0 0 32 32"
    xml:space="preserve"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="security.svg"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\security_16.png"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="survey_security.svg"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\survey_security_30.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"><metadata
    id="metadata16"><rdf:RDF><cc:Work
@@ -43,25 +43,24 @@
    inkscape:window-height="480"
    id="namedview12"
    showgrid="false"
-   inkscape:zoom="9.2713623"
+   inkscape:zoom="8.15625"
    inkscape:cx="12.696576"
-   inkscape:cy="11.685639"
+   inkscape:cy="16"
    inkscape:window-x="165"
    inkscape:window-y="399"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg2" />
-
 <g
-   id="g2984"><g
-     id="Layer_1">
-</g><path
-     sodipodi:nodetypes="ssccssssccsssssccssssccss"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="M 16.004,0 C 10.494,0 6.006,4.484 6.006,10 l 0,2 L 4,12 4,26 c 0,3.305 2.695,6 5.998,6 L 22,32 c 3.312,0 6.409935,-2.720522 6,-6 L 28.022445,12.261049 26.145358,12.021102 26,10 C 25.60431,4.4982107 21.516,0 16.004,0 z m -5.998,10 c 0,-3.312 2.693,-6 5.998,-6 C 19.312,4 22,6.688 22,10 l 0,2 -11.994,0 z M 22,28 9.998,28 c -1.102,0 -2,-0.898 -2,-2 l 0,-10 16.002,0 0,10 c 0,1.102 -0.891,2 -2,2 z"
-     style="fill:#94d200;fill-opacity:1" /><path
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="m 18.004,22 c 0,1.102 -0.898,2 -2,2 -1.109,0 -2,-0.898 -2,-2 0,-1.109 0.891,-2 2,-2 1.101,0 2,0.891 2,2 z"
-     style="fill:#94d200;fill-opacity:1" /></g>
+   id="Layer_1">
+</g>
+<path
+   style="fill:#94d200;fill-opacity:1"
+   d="M 16.004,0 C 10.494,0 6.006,4.484 6.006,10 l 0,2 L 4,12 4,26 c 0,3.305 2.695,6 5.998,6 L 22,32 c 3.312,0 6.409935,-2.720522 6,-6 L 28.022445,12.261049 26.145358,12.021102 26,10 C 25.60431,4.4982107 21.516,0 16.004,0 z m -5.998,10 c 0,-3.312 2.693,-6 5.998,-6 C 19.312,4 22,6.688 22,10 l 0,2 -11.994,0 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ssccssssccsssssccs" /><path
+   style="fill:#ffffff;fill-opacity:1"
+   d="m 18.004,22 c 0,1.102 -0.898,2 -2,2 -1.109,0 -2,-0.898 -2,-2 0,-1.109 0.891,-2 2,-2 1.101,0 2,0.891 2,2 z"
+   id="path10"
+   inkscape:connector-curvature="0" />
 </svg>
