@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="remind.svg"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\remind.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="940"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="4.6295638"
+   inkscape:cx="19.860913"
+   inkscape:cy="7.5149394"
+   inkscape:window-x="-32000"
+   inkscape:window-y="-32000"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+<g
+   id="Layer_1"
+   transform="translate(0,8)">
+</g>
+<g
+   id="mail"
+   transform="translate(0,8)"
+   style="fill:#94d200;fill-opacity:1">
+	<g
+   id="g6"
+   style="fill:#94d200;fill-opacity:1">
+		<polygon
+   style="fill:#94d200;fill-opacity:1"
+   points="0,0 0,3.906 16.078,11.457 32,3.918 32,0 "
+   id="polygon8" />
+		<polygon
+   style="fill:#94d200;fill-opacity:1"
+   points="32,24 32,8.344 16.086,15.879 0,8.32 0,24 "
+   id="polygon10" />
+	</g>
+</g>
+<path
+   id="path3772"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+   d="m 26.210569,21.269839 c -2.788959,0 -5.080309,2.276539 -5.080309,5.065498 0,2.788959 2.29135,5.08031 5.080309,5.08031 2.788961,0 5.08031,-2.291351 5.08031,-5.08031 l -2.369823,0 c 0,1.508211 -1.202275,2.710486 -2.710487,2.710486 -1.50821,0 -2.710485,-1.202275 -2.710485,-2.710486 0,-1.508212 1.202275,-2.695675 2.710485,-2.695675 l 0,-2.369823 z m 0.318332,-1.550448 c -0.495644,0.146876 -0.295016,1.479434 -0.295016,1.479434 0,0 -4.840865,2.139446 -0.01055,2.142938 0.03319,0 -0.01055,1.224352 0.01956,1.346259 0.0724,0.293329 0.639651,0.391079 0.925077,0.186394 0.435988,-0.30815 0.908386,-0.648634 1.292607,-0.923013 0.415156,-0.296415 0.830205,-0.592754 1.245361,-0.889208 0.21609,-0.154245 0.562233,-0.33107 0.692986,-0.536643 0.20871,-0.328367 -0.161408,-0.545479 -0.446133,-0.749662 -0.402013,-0.288273 -0.80413,-0.576584 -1.206195,-0.864856 -0.395868,-0.283758 -0.791576,-0.567593 -1.187445,-0.85135 -0.287474,-0.206268 -0.558999,-0.479915 -1.030239,-0.340293"
+   inkscape:connector-curvature="0" /></svg>

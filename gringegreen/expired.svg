@@ -13,13 +13,13 @@
    id="svg3668"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   width="320"
-   height="320"
-   sodipodi:docname="active.svg"
+   width="400"
+   height="400"
+   sodipodi:docname="expired.svg"
    version="1.0"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\active.png"
-   inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\expired.png"
+   inkscape:export-xdpi="7.1999998"
+   inkscape:export-ydpi="7.1999998"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata3673">
@@ -39,9 +39,20 @@
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 200 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="130 : 200 : 1"
-       inkscape:persp3d-origin="65 : 133.33333 : 1"
-       id="perspective17" />
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33333 : 1"
+       id="perspective24" />
+    <linearGradient
+       id="linearGradient2774">
+      <stop
+         id="stop2776"
+         offset="0"
+         style="stop-color:white;stop-opacity:1;" />
+      <stop
+         id="stop2778"
+         offset="1"
+         style="stop-color:#595959;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4577">
@@ -84,7 +95,7 @@
        x2="285.13956"
        y2="205.44344"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.843495,0,0,6.843495,-1867.044,-1292.541)" />
+       gradientTransform="matrix(16.20495,0,0,16.20495,-4383.482,-3141.744)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="940"
@@ -97,30 +108,38 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.2875356"
-     inkscape:cx="76.285454"
-     inkscape:cy="160"
+     inkscape:zoom="5.7725002"
+     inkscape:cx="230.86509"
+     inkscape:cy="200"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg3668"
      showborder="true"
-     width="130px"
+     width="400px"
      height="400px"
      showgrid="false"
+     inkscape:snap-global="false"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       orientation="1,0"
-       position="9.9868594,286.46518"
-       id="guide3790" />
+       orientation="horizontal"
+       position="361.55844"
+       id="guide4550" />
     <sodipodi:guide
-       orientation="0,1"
-       position="-111.43233,300.13141"
-       id="guide3792" />
+       orientation="horizontal"
+       position="37.402597"
+       id="guide4552" />
   </sodipodi:namedview>
   <path
-     style="fill:#4fd200;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     d="M 9.9868594,19.795066 67.828019,20.934239 220.9117,116.84228 c 0,0 63.40753,32.11001 1.84433,79.3085 -55.33132,42.42075 -145.706071,99.59656 -145.706071,99.59656 l -67.0630996,0 z"
-     id="path3677"
+     style="fill:#889862;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 52.461613,39.379168 70.471817,0 172.03421,112.591522 c 0,0 69.18423,37.69561 0,93.10443 -62.18088,49.79995 -172.03421,116.92165 -172.03421,116.92165 l -70.471817,0 0,-322.617602 z"
+     id="path4585"
      sodipodi:nodetypes="cccsccc"
      inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#889862;fill-opacity:1;stroke:none"
+     id="rect1879"
+     width="60.122269"
+     height="323.78305"
+     x="325.49811"
+     y="38.627945" />
 </svg>

@@ -671,26 +671,26 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="940"
-     inkscape:window-width="1280"
+     inkscape:window-height="659"
+     inkscape:window-width="910"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="22.84375"
+     inkscape:zoom="37.656494"
      inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="200"
+     inkscape:window-y="200"
      inkscape:current-layer="svg1340"
      width="400px"
      height="400px"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
@@ -742,7 +742,7 @@
        id="guide3889" />
   </sodipodi:namedview>
   <rect
-     style="fill:#ff2a2a;stroke:none"
+     style="fill:#fa8900;stroke:none;fill-opacity:1"
      id="rect4146"
      width="11.843333"
      height="11.843333"
