@@ -16,10 +16,10 @@
    height="400"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel 22040"
-   sodipodi:docname="security.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="templatepermissions.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey\images\security_small.png"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gartergrey\images\templatepermissions_small.png"
    inkscape:export-xdpi="3.5999999"
    inkscape:export-ydpi="3.5999999">
   <metadata
@@ -35,7 +35,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="968"
+     inkscape:window-height="940"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -47,11 +47,11 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.53708932"
-     inkscape:cx="272.04461"
-     inkscape:cy="333.36607"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:zoom="0.91375"
+     inkscape:cx="200"
+     inkscape:cy="221.88782"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:current-layer="svg1307"
      inkscape:window-maximized="1" />
   <defs
