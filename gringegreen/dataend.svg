@@ -19,8 +19,8 @@
    xml:space="preserve"
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="dataforward.svg"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\dataforward.png"
+   sodipodi:docname="dataend.svg"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\dataend.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"><metadata
    id="metadata12"><rdf:RDF><cc:Work
@@ -41,8 +41,8 @@
    inkscape:window-height="940"
    id="namedview8"
    showgrid="false"
-   inkscape:zoom="19.033076"
-   inkscape:cx="21.579999"
+   inkscape:zoom="22.84375"
+   inkscape:cx="16"
    inkscape:cy="16"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -61,10 +61,6 @@
 </g>
 <path
    style="fill:#94d200"
-   d="M 16,32 C 7.164,32 0,24.836 0,16.002 0,7.164 7.164,0 16,0 24.836,0 32,7.164 32,16.002 32,24.836 24.836,32 16,32 z"
+   d="M 16 0 C 7.164 0 2.6214382e-018 7.162 0 16 C 0 24.834 7.164 32 16 32 C 24.836 32 32 24.834 32 16 C 32 7.162 24.836 2.6214382e-018 16 0 z M 14.84375 8 L 22.75 16 L 22.75 8.03125 L 25.15625 8.03125 L 25.15625 23.90625 L 22.75 23.90625 L 22.75 16.0625 L 14.84375 24 L 14.84375 18 L 6.84375 18 L 6.84375 14.03125 L 14.84375 14.03125 L 14.84375 8 z M 22.75 16.0625 L 22.78125 16.03125 L 22.75 16 L 22.75 16.0625 z "
    id="path3768" />
-<path
-   id="rect2990"
-   style="fill:#ffffff;fill-opacity:1;stroke:none"
-   d="m 22.75625,8.0392637 2.415473,0 0,15.8648733 -2.415473,0 z M 14.859276,8.0155 v 6.002 H 6.8282765 v 3.998 h 8.0309995 v 5.969 l 7.969,-7.967 -7.969,-8.002 z"
-   inkscape:connector-curvature="0" /></svg>
+</svg>

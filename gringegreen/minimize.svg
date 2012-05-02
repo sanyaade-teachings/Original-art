@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1340"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 "
+   inkscape:version="0.48.3.1 r9886"
    width="210"
    height="210"
    sodipodi:docname="minimize.svg"
    version="1.0"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\GRINGE~1\images\minimize.png"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\minimize.png"
    inkscape:export-xdpi="9.5600004"
    inkscape:export-ydpi="9.5600004"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -626,15 +626,6 @@
          offset="1"
          id="stop24768-0-7" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter24784-1-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.37336074"
-         id="feGaussianBlur24786-8-1" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient24826-7-2"
@@ -657,19 +648,6 @@
          offset="1"
          id="stop24830-1-6" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter24877-4-1"
-       x="-0.01252646"
-       width="1.0250529"
-       y="-0.28552499"
-       height="1.57105">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.59484375"
-         id="feGaussianBlur24879-9-4" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient24857-0-3"
@@ -691,37 +669,28 @@
          offset="1"
          id="stop24861-6-2" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter24869-1-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.9547516"
-         id="feGaussianBlur24871-0-6" />
-    </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="721"
-     inkscape:window-width="1021"
+     inkscape:window-height="940"
+     inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.6"
-     inkscape:cx="48.541931"
-     inkscape:cy="96.942497"
-     inkscape:window-x="261"
-     inkscape:window-y="130"
+     inkscape:zoom="3.4809524"
+     inkscape:cx="105"
+     inkscape:cy="103.14006"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:current-layer="svg1340"
      width="400px"
      height="400px"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
@@ -764,22 +733,8 @@
        position="175,122.30769"
        id="guide5307" />
   </sodipodi:namedview>
-  <rect
-     style="fill:#94d200;stroke:#94d200;stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect4146"
-     width="161.04994"
-     height="161.04994"
-     x="24.667347"
-     y="24.667347"
-     rx="5"
-     ry="5" />
-  <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect5299"
-     width="140"
-     height="40"
-     x="35"
-     y="50"
-     rx="10"
-     ry="10" />
+  <path
+     style="fill:#94d200;stroke:none"
+     d="M 29.28125 10.03125 C 18.684677 10.564933 10.3125 19.2975 10.3125 30.03125 L 10.3125 180.375 C 10.3125 191.455 19.2325 200.375 30.3125 200.375 L 179.78125 200.375 C 190.86125 200.375 199.78125 191.455 199.78125 180.375 L 199.78125 30.03125 C 199.78125 18.95125 190.86125 10.03125 179.78125 10.03125 L 30.3125 10.03125 C 29.96625 10.03125 29.623075 10.014034 29.28125 10.03125 z M 45 50 L 165 50 C 170.54 50 175 54.46 175 60 L 175 80 C 175 85.54 170.54 90 165 90 L 45 90 C 39.46 90 35 85.54 35 80 L 35 60 C 35 54.46 39.46 50 45 50 z "
+     id="rect4146" />
 </svg>

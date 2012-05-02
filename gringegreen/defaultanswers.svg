@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -472,7 +472,7 @@
      id="base"
      inkscape:zoom="2.284375"
      inkscape:cx="160"
-     inkscape:cy="177.51026"
+     inkscape:cy="160"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg1340"
@@ -509,18 +509,6 @@
        id="guide8118" />
   </sodipodi:namedview>
   <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     d="m 11.93314,282.18611 c 0,0 1.509276,22.71474 24.903247,23.47197 38.585213,1.24891 242.996543,1.51428 242.996543,1.51428 0,0 24.14871,-3.78581 22.63959,-25.74347 -2.08719,-30.36507 -1.50943,-242.2904 -1.50943,-242.2904 0,0 -1.29645,-23.74111 -22.63942,-23.47177 -47.16882,0.59535 -242.457732,2.09126 -242.457732,2.09126 0,0 -20.91408,-4.36279 -20.914257,23.65205 -1.67e-4,43.16448 -3.018541,240.77608 -3.018541,240.77608 z"
-     id="path2524"
-     sodipodi:nodetypes="cscscscsc"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#7a7a7a;stroke-width:19.97245979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 19.633317,109.7283 303.68117,108.78698 19.633317,109.7283 z"
-     id="path2528"
-     sodipodi:nodetypes="ccc"
-     inkscape:connector-curvature="0" />
-  <path
      style="fill:#7a7a7a;fill-opacity:1;fill-rule:evenodd;stroke:#94d200;stroke-width:19.68565559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 209.6816,10.06693 0.64291,100.28682 -0.64291,-100.28682 z m 0.0837,107.50324 -0.19573,189.11085 0.19573,-189.11085 z"
      id="path2526"
@@ -554,14 +542,14 @@
      ry="34.137394" />
   <text
      xml:space="preserve"
-     style="font-size:105.08341217px;font-style:normal;font-weight:bold;fill:#94d200;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Arial Bold"
-     x="24.711555"
+     style="font-size:104.45040894px;font-style:normal;font-weight:bold;fill:#94d200;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Arial Bold"
+     x="25.166218"
      y="102.45683"
      id="text2904"
      transform="scale(1.0350867,0.96610265)"><tspan
        sodipodi:role="line"
        id="tspan2906"
-       x="24.711555"
+       x="25.166218"
        y="102.45683"
        style="font-weight:bold;fill:#94d200;font-family:Arial;-inkscape-font-specification:Arial Bold">A</tspan></text>
   <path

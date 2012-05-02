@@ -41,8 +41,8 @@
    inkscape:window-height="940"
    id="namedview8"
    showgrid="false"
-   inkscape:zoom="19.033076"
-   inkscape:cx="21.579999"
+   inkscape:zoom="22.84375"
+   inkscape:cx="16"
    inkscape:cy="16"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -59,15 +59,9 @@
 
 
 <g
-   id="g3772"
-   transform="matrix(-1,0,0,1,32,0)"><g
-     id="Layer_1">
+   id="Layer_1"
+   transform="matrix(-1,0,0,1,32,0)">
 </g><path
-     inkscape:connector-curvature="0"
-     id="path3768"
-     d="M 16,32 C 7.164,32 0,24.836 0,16.002 0,7.164 7.164,0 16,0 24.836,0 32,7.164 32,16.002 32,24.836 24.836,32 16,32 z"
-     style="fill:#94d200" /><path
-     inkscape:connector-curvature="0"
-     d="m 22.75625,8.0392637 2.415473,0 0,15.8648733 -2.415473,0 z M 14.859276,8.0155 v 6.002 H 6.8282765 v 3.998 h 8.0309995 v 5.969 l 7.969,-7.967 -7.969,-8.002 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect2990" /></g></svg>
+   style="fill:#94d200"
+   d="M 16 0 C 7.164 0 0 7.162 0 16 C 0 24.834 7.164 32 16 32 C 24.836 32 32 24.834 32 16 C 32 7.162 24.836 0 16 0 z M 17.15625 8 L 17.15625 14.03125 L 25.15625 14.03125 L 25.15625 18 L 17.15625 18 L 17.15625 24 L 9.25 16.125 L 9.25 23.90625 L 6.84375 23.90625 L 6.84375 8.03125 L 9.25 8.03125 L 9.25 15.9375 L 17.15625 8 z M 9.25 15.9375 L 9.15625 16.03125 L 9.25 16.125 L 9.25 15.9375 z "
+   id="path3768" /></svg>
