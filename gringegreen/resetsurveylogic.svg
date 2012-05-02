@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="resetsurveylogic.svg"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_yii\styles\gringegreen\images\resetsurveylogic_30.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs14">
+	
+
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="940"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="23.927124"
+   inkscape:cx="14"
+   inkscape:cy="19.343486"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<g
+   id="Layer_1">
+</g>
+<path
+   style="fill:#94d200"
+   d="m 22,0 0,3.875 c 0,0.1371878 -0.02216,0.2706332 -0.03125,0.40625 0.986678,1.1544628 1.557606,2.1835474 2.457064,2.6875 -3.584256,1.7032242 -6.201745,10.258775 -9.736791,6.393422 L 8.9375,19.375 c -0.5391368,0.537931 -1.0151209,1.121453 -1.40625,1.75 0.973621,0.989709 2.3160646,1.546983 3.71875,1.6875 0.158361,-0.208963 0.311195,-0.435275 0.5,-0.625 l 6.40625,-6.34375 c 0.108549,-0.138939 0.235963,-0.270409 0.375,-0.375 L 23.0625,10.9375 C 24.9535,9.0475 26,6.547 26,3.875 L 26,0 z M 5.2804886,28.862553 8,32 10.127665,30.290271 C 8.7988992,30.079056 6.4207734,29.461124 5.2804886,28.862553 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="csccccccccccscccccc" /><path
+   style="fill:#94d200"
+   d="M 24.96875 22.03125 C 23.956744 24.464177 22.279686 26.603781 20.1875 28.1875 L 24 32 L 30 26 L 25.9375 26 C 25.876819 24.606005 25.561093 23.258608 24.96875 22.03125 z "
+   id="path10" />
+<g
+   id="Layer_1-1"
+   transform="translate(-0.04703821,0.02876372)" /><path
+   inkscape:connector-curvature="0"
+   style="fill:#94d200;fill-opacity:1"
+   d="m 19.952962,16.906438 c 0,4.41 -3.586,8 -8,8 -4.4140002,0 -8.0000002,-3.59 -8.0000002,-8 0,-4.41 3.586,-8.0000087 8.0000002,-8.0000087 l 2.359,0.027 -1.164,1.1640007 2.828,2.828008 6.012,-6.0190087 -6.012,-6.00000061 -2.828,2.82800061 1.18,1.172 h -2.375 c -6.6250002,0 -12.00000021,5.3710027 -12.00000021,12.0000087 0,6.629 5.37500001,12 12.00000021,12 6.625,0 12,-5.371 12,-12 h -4 z"
+   id="path8-4" /></svg>
