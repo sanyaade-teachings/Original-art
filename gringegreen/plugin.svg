@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Electrical Plug.svg"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey\styles\gringegreen\images\plugin.png"
+   inkscape:export-xdpi="1.4400001"
+   inkscape:export-ydpi="1.4400001">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="774"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.11796935"
+     inkscape:cx="1072.403"
+     inkscape:cy="801.05554"
+     inkscape:window-x="575"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Electrical Plug</title>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3656">
+      <stop
+         stop-color="#ffffff"
+         id="stop3658"
+         offset="0" />
+      <stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop3660"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">image/svg+xmlSergio Luiz Araujo Silvaoutletelectricityenergypowerhomeoffice<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Electrical Plug</dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     sodipodi:nodetypes="cscccsccsscscccsssccccc"
+     style="fill:#85bd00;fill-opacity:1;stroke-width:0.51863402"
+     inkscape:connector-curvature="0"
+     d="m 1620.8044,149.39709 c -32.4297,-40.88812 -79.785,-36.0728 -120.2525,-3.11974 L 1078.4982,489.95977 919.41436,292.5524 c -10.24472,-12.97184 -31.39669,-15.40848 -44.32885,-5.11377 L 710.34188,409.16518 C 460.72694,593.60183 399.21733,932.71809 529.50762,1200.4819 L 55.932853,1576.0902 c -61.3238443,48.6368 -71.528244,137.0947 -22.890944,198.4182 48.636856,61.3227 137.095611,71.5276 198.417651,22.8907 l 473.57454,-375.609 c 231.06299,187.8366 562.0908,188.5349 811.7071,4.0978 l 164.7432,-121.7259 c 12.9718,-10.2453 15.4083,-31.3979 5.1139,-44.3298 L 1521.436,1056.3474 1943.4888,712.66516 c 40.4682,-32.95368 65.939,-73.28598 33.5086,-114.17529 -32.4298,-40.88805 -91.5195,-47.70403 -132.4078,-15.27451 l -422.0528,343.68198 -239.0596,-301.41059 422.052,-343.68249 c 40.8888,-32.42919 47.7057,-91.51982 15.2759,-132.40772 z"
+     id="path2821" />
+</svg>
